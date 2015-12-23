@@ -1,7 +1,7 @@
 package c2;
 
 /**
- * 不使用
+ * 不使用迭代实现指数计算
  * @author George
  *
  */
